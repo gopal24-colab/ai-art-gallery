@@ -1,0 +1,10 @@
+.my-toast {
+  border: 1px solid rgb(34, 225, 225);
+  border-radius: 8px;
+  background: transparent;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: rgba(175, 255, 224, 0.574);
+  backdrop-filter: blur(2px);
+  font-family: "Roboto", Arial, sans-serif;
+  color: #262626;
+}
